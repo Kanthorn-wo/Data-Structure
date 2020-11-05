@@ -5,6 +5,7 @@ demo(int *a);
         printf("%d ",a[i]);
     }
 
+
 int main()
 {
     int n;
